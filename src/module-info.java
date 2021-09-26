@@ -1,0 +1,3 @@
+module PSP {
+	requires junit;
+}
